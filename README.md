@@ -1,0 +1,4 @@
+homeaut
+=======
+
+Home automation scripts
